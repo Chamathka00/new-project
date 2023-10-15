@@ -9,6 +9,7 @@ phone_number = input("Enter your phone number: ")
 school_name = input("Enter your school name: ")
 university_name = input("Enter your university name: ")
 occupation = input("Enter your occupation: ")
+address = input("Enter your address: ")
 
 
 # Display the user details
@@ -21,3 +22,4 @@ print("Phone Number:", phone_number)
 print("School Name:", school_name)
 print("University Name:", university_name)
 print("Occupation:", occupation)
+print("Address:", address)
