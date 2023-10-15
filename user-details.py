@@ -1,6 +1,7 @@
 # Get user details
-print("Enter your details")
+print("Welcome to user-details")
 name = input("Enter your name: ")
+print("Hello", name, "insert your remaining details")
 index_number = input("Enter your index number: ")
 age = input("Enter your age: ")
 email = input("Enter your email address: ")
